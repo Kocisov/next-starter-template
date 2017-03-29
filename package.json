@@ -1,0 +1,23 @@
+{
+  "name": "next-starter-template",
+  "version": "1.0.0",
+  "description": "Starter template for Next.js",
+  "main": "index.js",
+  "repository": "kocisov/next-starter-template",
+  "author": "kocisov <kocis.34@gmail.com>",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "next": "^2.0.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-icons": "^2.2.3"
+  },
+  "devDependencies": {
+    "babel-preset-stage-0": "^6.22.0"
+  }
+}
